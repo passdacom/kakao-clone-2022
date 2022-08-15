@@ -1,3 +1,3 @@
-# Kakao Clone 2022 Update
+# Kokoa Clone 2020 Update
 
-HTML & CSS got so much fun!
+HTML & CSS are so much fun!
